@@ -53,6 +53,7 @@
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "3.6.3"
   },
+  "homepage": "https://ark9606.github.io/nice-alert",
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
