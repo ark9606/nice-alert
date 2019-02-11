@@ -1,14 +1,14 @@
 {
-  "main.css": "/nice-alert/docs/static/css/main.b5e7e0bc.chunk.css",
-  "main.js": "/nice-alert/docs/static/js/main.363be75d.chunk.js",
-  "main.js.map": "/nice-alert/docs/static/js/main.363be75d.chunk.js.map",
-  "runtime~main.js": "/nice-alert/docs/static/js/runtime~main.34da9cc0.js",
-  "runtime~main.js.map": "/nice-alert/docs/static/js/runtime~main.34da9cc0.js.map",
-  "static/js/2.6e96b77b.chunk.js": "/nice-alert/docs/static/js/2.6e96b77b.chunk.js",
-  "static/js/2.6e96b77b.chunk.js.map": "/nice-alert/docs/static/js/2.6e96b77b.chunk.js.map",
-  "index.html": "/nice-alert/docs/index.html",
-  "precache-manifest.e69f6b5fdcd7fed3af8cd851212adbdb.js": "/nice-alert/docs/precache-manifest.e69f6b5fdcd7fed3af8cd851212adbdb.js",
-  "service-worker.js": "/nice-alert/docs/service-worker.js",
-  "static/css/main.b5e7e0bc.chunk.css.map": "/nice-alert/docs/static/css/main.b5e7e0bc.chunk.css.map",
-  "static/media/logo.svg": "/nice-alert/docs/static/media/logo.5d5d9eef.svg"
+  "main.css": "/nice-alert/static/css/main.b5e7e0bc.chunk.css",
+  "main.js": "/nice-alert/static/js/main.af4231f2.chunk.js",
+  "main.js.map": "/nice-alert/static/js/main.af4231f2.chunk.js.map",
+  "runtime~main.js": "/nice-alert/static/js/runtime~main.c951fb9f.js",
+  "runtime~main.js.map": "/nice-alert/static/js/runtime~main.c951fb9f.js.map",
+  "static/js/2.6e96b77b.chunk.js": "/nice-alert/static/js/2.6e96b77b.chunk.js",
+  "static/js/2.6e96b77b.chunk.js.map": "/nice-alert/static/js/2.6e96b77b.chunk.js.map",
+  "index.html": "/nice-alert/index.html",
+  "precache-manifest.f4bcd7de95951733c9921b1c080d401d.js": "/nice-alert/precache-manifest.f4bcd7de95951733c9921b1c080d401d.js",
+  "service-worker.js": "/nice-alert/service-worker.js",
+  "static/css/main.b5e7e0bc.chunk.css.map": "/nice-alert/static/css/main.b5e7e0bc.chunk.css.map",
+  "static/media/logo.svg": "/nice-alert/static/media/logo.5d5d9eef.svg"
 }
