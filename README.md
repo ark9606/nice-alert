@@ -1,4 +1,4 @@
-permalink: /build/index.html
+[Follow](https://ark9606.github.io/nice-alert/build/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
