@@ -3,14 +3,40 @@ import './App.scss';
 import str from './strings';
 
 class NiceAlert extends Component {
+  constructor(props){
+    super(props);
+    this.state = {
+      isOpen: true,
+      toClosing: false
+    };
+    this.onNice = this.onNice.bind(this);
+  }
+
+  onNice(e) {
+    this.setState({toClosing: true}, () => {
+      setTimeout(() => {
+
+        this.setState({isOpen: false, toClosing: false});
+      }, 1000);
+
+    });
+  }
+
   render() {
-    return (
-      <div className='nice-alert'>
+    const {isOpen, toClosing} = this.state;
+
+    let niceAlert = (
+      <div className={`nice-alert ${toClosing ? 'closing': ''}`}>
         <div className='nice-alert-inner'>
-          <p>{this.props.text}</p>
+          <div className='nice-alert-content'>
+            <p dangerouslySetInnerHTML={{__html: this.props.text}}/>
+          </div>
+          <div className="nice-alert-button" onClick={this.onNice}>nice!</div>
         </div>
       </div>
     );
+
+    return (isOpen ? niceAlert : null);
   }
 }
 
