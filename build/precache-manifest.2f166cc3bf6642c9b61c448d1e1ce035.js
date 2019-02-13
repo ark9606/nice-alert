@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/nice-alert/static/css/main.08f62c9f.chunk.css"
   },
   {
-    "revision": "bc4f191e12ae3358d6c1b2b9496f2088",
+    "revision": "3aa380b4dea7fc97bdef8bd0e6a67a3e",
     "url": "/nice-alert/index.html"
   }
 ];
